@@ -9,3 +9,5 @@
 - 🎮 Eu estudo e trabalho com jogos
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=souvitorgabriel)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvitorgabriel)](https://github.com/anuraghazra/github-readme-stats)
